@@ -7,7 +7,7 @@
 	}
 
 	&--gutters-large {
-		padding-right: -100px;
+		margin-right: -100px;
 	}
 
 	&--gutters > div {
@@ -23,11 +23,11 @@
 	}
 
 	&--t-padding {
-		margin-top: 85px;
+		padding-top: 80px;
 	}
 
 	&--gutters-small {
-		margin-right: ;
+		margin-right: -45px;
 	}
 
 

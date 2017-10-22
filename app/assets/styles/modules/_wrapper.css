@@ -8,8 +8,6 @@
 
 	&--medium {
 		max-width: 976;
-		margin-left: auto;
-		margin-right: auto;
 	}
 
 	&--no-padding-until-medium {
